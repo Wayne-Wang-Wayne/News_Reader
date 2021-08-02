@@ -1,6 +1,6 @@
 package com.example.myapplication.service;
 
-import com.example.myapplication.mode.ReaderNews;
+import com.example.myapplication.model.ReaderNews;
 
 import retrofit2.Call;
 import retrofit2.http.GET;

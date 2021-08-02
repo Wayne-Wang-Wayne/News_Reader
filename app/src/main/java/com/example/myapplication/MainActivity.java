@@ -5,7 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 
-import com.example.myapplication.mode.ReaderNews;
+import com.example.myapplication.model.ReaderNews;
 import com.example.myapplication.service.ApiService;
 import com.example.myapplication.service.ReaderApiServiceJson;
 import com.example.myapplication.service.ReaderApiServiceRaw;

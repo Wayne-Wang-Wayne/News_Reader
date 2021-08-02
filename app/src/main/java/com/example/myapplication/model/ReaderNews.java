@@ -1,4 +1,4 @@
-package com.example.myapplication.mode;
+package com.example.myapplication.model;
 
 import java.util.List;
 
